@@ -1,5 +1,7 @@
 # vagmi
 
+I'm not able to maintain this anymore. Please read https://github.com/wobsoriano/vagmi/issues/60.
+
 [![npm (tag)](https://img.shields.io/npm/v/vagmi?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/vagmi) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/vagmi?style=flat&colorA=000000&colorB=000000) ![NPM](https://img.shields.io/npm/l/vagmi?style=flat&colorA=000000&colorB=000000)
 
 Vue Composables for Ethereum
