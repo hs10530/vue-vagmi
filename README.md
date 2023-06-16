@@ -1,9 +1,5 @@
 # vagmi
 
-I'm not able to maintain this anymore. Please read https://github.com/wobsoriano/vagmi/issues/60.
-
-[![npm (tag)](https://img.shields.io/npm/v/vagmi?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/vagmi) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/vagmi?style=flat&colorA=000000&colorB=000000) ![NPM](https://img.shields.io/npm/l/vagmi?style=flat&colorA=000000&colorB=000000)
-
 Vue Composables for Ethereum
 
 ## Features
@@ -16,10 +12,6 @@ Vue Composables for Ethereum
 - 🌳 [WIP] Test suite running against forked Ethereum network
 
 ...and a lot more.
-
-## Documentation
-
-For full documentation and examples, visit [vagmi.vercel.app](https://vagmi.vercel.app).
 
 ## Installation
 
@@ -76,13 +68,3 @@ In this example, we create a vagmi `Client` and pass it to the `VagmiPlugin` Vue
 Next, we use the `useConnect` composable to connect an injected wallet (e.g. MetaMask) to the app. Finally, we show the connected account's address with `useAccount` and allow them to disconnect with `useDisconnect`.
 
 We've only scratched the surface for what you can do with vagmi!
-
-## Credits
-
-- [wagmi.sh](https://wagmi.sh/)
-- [VueUse](https://vueuse.org/)
-- [Vue Query](https://vue-query.vercel.app/)
-
-## License
-
-MIT
